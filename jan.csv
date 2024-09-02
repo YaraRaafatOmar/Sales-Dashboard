@@ -1,0 +1,353 @@
+Invoice ID,Customer Id,Product_Code,Quantity,Payment,Rating
+484-22-8230,SA-2005,Fa-443,7,payment:Cash,Rating:4
+237-44-6163,UAE-1527,EA-305,8,payment:Cash,Rating:7
+749-24-1565,UAE-1332,HB-634,9,payment:Ewallet,Rating:7
+606-80-4905,SA-1334,SL-212,6,payment:Credit card,Rating:6
+859-71-0933,SA-1335,SL-206,12,payment:Cash,Rating:6
+482-17-1179,UAE-2028,EA-305,3,payment:Credit card,Rating:8
+761-49-0439,EG-2046,EA-305,2,payment:Cash,Rating:8
+556-86-3144,SA-2199,Fa-467,12,payment:Cash,Rating:5
+226-34-0034,EG-1371,EA-306,4,payment:Ewallet,Rating:9
+372-62-5264,SA-1359,HB-696,9,payment:Cash,Rating:7
+887-42-0517,SA-1361,SL-200,7,payment:Credit card,Rating:6
+173-82-9529,EG-1950,Fa-413,10,payment:Cash,Rating:9
+847-38-7188,EG-1364,HB-633,3,payment:Cash,Rating:6
+577-34-7579,SA-1365,HB-623,9,payment:Cash,Rating:5
+233-67-5758,SA-1370,SL-200,12,payment:Ewallet,Rating:6
+459-50-7686,UAE-2139,SL-200,6,payment:Cash,Rating:6
+287-21-9091,UAE-1375,SL-212,9,payment:Ewallet,Rating:9
+109-28-2512,EG-1412,SL-206,2,payment:Ewallet,Rating:9
+410-67-1709,UAE-1381,Fa-401,8,payment:Ewallet,Rating:9
+592-34-6155,SA-1382,HB-614,12,payment:Ewallet,Rating:6
+726-27-2396,UAE-1383,HB-678,5,payment:Credit card,Rating:4
+852-62-7105,EG-1363,Fa-467,10,payment:Credit card,Rating:4
+726-29-6793,UAE-2064,EA-307,8,payment:Cash,Rating:9
+400-89-4171,SA-1390,SL-209,8,payment:Cash,Rating:9
+613-59-9758,SA-1391,SL-214,10,payment:Cash,Rating:5
+327-40-9673,EG-1393,SL-216,2,payment:Cash,Rating:6
+477-59-2456,SA-2030,Fa-465,7,payment:Cash,Rating:9
+687-15-1097,SA-1402,HB-637,12,payment:Cash,Rating:9
+670-71-7306,EG-1407,SL-204,2,payment:Credit card,Rating:5
+243-47-2663,SA-1926,EA-306,6,payment:Credit card,Rating:5
+381-20-0914,UAE-1862,Fa-417,9,payment:Credit card,Rating:5
+234-65-2137,SA-1413,HLS-205,10,payment:Cash,Rating:10
+534-01-4457,UAE-1414,HB-629,6,payment:Credit card,Rating:8
+699-88-1972,EG-1417,HB-637,2,payment:Credit card,Rating:10
+888-02-0338,UAE-2274,EA-308,9,payment:Cash,Rating:5
+401-18-8016,EG-1426,SL-218,1,payment:Cash,Rating:8
+187-83-5490,UAE-2317,EA-306,4,payment:Cash,Rating:4
+544-55-9589,EG-1941,EA-306,10,payment:Cash,Rating:6
+735-32-9839,SA-1590,Fa-434,8,payment:Cash,Rating:8
+760-27-5490,SA-1351,SL-212,8,payment:Ewallet,Rating:9
+787-87-2010,UAE-1443,SL-213,4,payment:Credit card,Rating:6
+817-48-8732,UAE-1450,HLS-203,10,payment:Cash,Rating:5
+647-50-1224,UAE-1968,Fa-409,10,payment:Cash,Rating:8
+744-09-5786,EG-1703,EA-307,2,payment:Cash,Rating:7
+241-96-5076,EG-1458,HLS-214,2,payment:Credit card,Rating:6
+882-40-4577,UAE-1460,SL-215,4,payment:Credit card,Rating:8
+633-91-1052,UAE-1468,HLS-220,2,payment:Cash,Rating:5
+728-47-9078,SA-1471,HB-655,12,payment:Cash,Rating:9
+593-65-1552,SA-1472,HLS-206,12,payment:Credit card,Rating:5
+869-11-3082,EG-1475,HB-672,4,payment:Credit card,Rating:8
+305-89-2768,EG-1477,HLS-218,3,payment:Cash,Rating:10
+566-19-5475,EG-1698,Fa-493,2,payment:Cash,Rating:8
+132-23-6451,UAE-1491,HB-673,5,payment:Cash,Rating:7
+280-17-4359,SA-1492,HB-677,10,payment:Cash,Rating:8
+182-69-8360,EG-2153,EA-307,4,payment:Cash,Rating:4
+841-18-8232,EG-1500,HB-642,1,payment:Credit card,Rating:9
+870-54-3162,UAE-1503,SL-206,5,payment:Cash,Rating:9
+435-13-4908,UAE-1776,Fa-415,8,payment:Credit card,Rating:7
+434-83-9547,SA-1508,HB-624,8,payment:Cash,Rating:7
+677-11-0152,SA-1509,HB-657,9,payment:Cash,Rating:8
+349-97-8902,EG-1512,HB-691,2,payment:Cash,Rating:8
+539-21-7227,EG-1516,SL-204,5,payment:Cash,Rating:10
+301-11-9629,UAE-1517,SL-213,7,payment:Cash,Rating:9
+195-06-0432,UAE-1519,HLS-209,3,payment:Credit card,Rating:9
+640-49-2076,EG-1520,SL-207,2,payment:Cash,Rating:5
+583-72-1480,SA-2094,EA-308,12,payment:Cash,Rating:9
+575-67-1508,UAE-2166,EA-308,1,payment:Cash,Rating:6
+573-98-8548,SA-1680,Fa-412,12,payment:Cash,Rating:9
+744-02-5987,UAE-1529,HLS-206,6,payment:Cash,Rating:5
+659-36-1684,SA-1530,SL-215,7,payment:Credit card,Rating:6
+387-49-4215,EG-1531,SL-214,3,payment:Cash,Rating:6
+832-51-6761,UAE-1532,HB-647,8,payment:Cash,Rating:9
+134-54-4720,EG-1499,EA-311,2,payment:Cash,Rating:5
+458-10-8612,SA-1538,HB-616,7,payment:Ewallet,Rating:7
+700-81-1757,UAE-1449,EA-308,5,payment:Credit card,Rating:8
+862-17-9201,EG-1540,HB-679,2,payment:Credit card,Rating:7
+556-72-8512,SA-1543,HLS-204,12,payment:Cash,Rating:10
+394-55-6384,SA-1546,SL-208,9,payment:Cash,Rating:6
+571-94-0759,EG-1547,HB-620,10,payment:Cash,Rating:9
+563-47-4072,EG-1551,HB-631,2,payment:Cash,Rating:9
+834-45-5519,EG-1692,EA-311,4,payment:Cash,Rating:7
+789-23-8625,EG-1398,Fa-417,3,payment:Cash,Rating:7
+239-36-3640,EG-1452,EA-311,2,payment:Cash,Rating:6
+314-23-4520,SA-1556,HB-616,7,payment:Cash,Rating:9
+870-72-4431,SA-1557,HB-601,6,payment:Credit card,Rating:5
+446-47-6729,SA-1697,Fa-417,12,payment:Credit card,Rating:6
+663-86-9076,SA-1562,HB-694,8,payment:Cash,Rating:8
+592-46-1692,SA-1563,HB-636,7,payment:Cash,Rating:7
+867-47-1948,SA-1572,HLS-201,10,payment:Cash,Rating:7
+886-54-6089,UAE-1589,HLS-208,6,payment:Cash,Rating:7
+620-02-2046,SA-1592,HLS-209,12,payment:Ewallet,Rating:9
+478-06-7835,UAE-1338,Fa-430,1,payment:Ewallet,Rating:5
+151-27-8496,SA-1502,EA-312,12,payment:Cash,Rating:8
+133-14-7229,SA-1600,HB-691,12,payment:Cash,Rating:5
+628-34-3388,SA-2320,Fa-409,6,payment:Credit card,Rating:8
+648-83-1321,UAE-1607,HLS-203,10,payment:Cash,Rating:10
+137-63-5492,SA-1431,EA-312,10,payment:Cash,Rating:9
+790-38-4466,SA-1612,HB-648,5,payment:Credit card,Rating:9
+211-30-9270,SA-1613,HB-623,5,payment:Credit card,Rating:10
+631-34-1880,SA-1614,HB-622,12,payment:Credit card,Rating:10
+343-87-0864,SA-1615,HB-661,12,payment:Credit card,Rating:7
+433-08-7822,SA-1618,HB-656,7,payment:Cash,Rating:7
+784-08-0310,SA-1624,HB-612,12,payment:Cash,Rating:7
+145-94-9061,EG-1625,HB-644,5,payment:Cash,Rating:9
+198-84-7132,EG-2142,Fa-450,2,payment:Cash,Rating:8
+120-54-2248,EG-1628,HB-628,5,payment:Credit card,Rating:8
+272-65-1806,UAE-1788,EA-312,9,payment:Ewallet,Rating:8
+130-67-4723,UAE-1635,HB-688,6,payment:Cash,Rating:9
+824-88-3614,SA-1636,HB-659,8,payment:Ewallet,Rating:5
+679-22-6530,EG-1638,SL-212,2,payment:Credit card,Rating:10
+770-42-8960,EG-1648,HB-625,2,payment:Cash,Rating:6
+480-63-2856,SA-1649,HB-696,8,payment:Cash,Rating:6
+149-61-1929,UAE-1652,SL-216,10,payment:Credit card,Rating:6
+595-27-4851,UAE-1799,Fa-455,7,payment:Cash,Rating:9
+222-42-0244,EG-1662,HB-684,2,payment:Credit card,Rating:7
+801-88-0346,SA-1780,Fa-448,12,payment:Credit card,Rating:9
+437-58-8131,EG-1406,Fa-476,2,payment:Cash,Rating:4
+585-90-0249,UAE-1377,EA-314,1,payment:Cash,Rating:9
+414-12-7047,EG-1688,HB-652,2,payment:Cash,Rating:8
+559-61-5987,EG-1689,HB-658,1,payment:Cash,Rating:8
+704-10-4056,SA-1693,HB-699,12,payment:Credit card,Rating:5
+526-86-8552,SA-1699,HLS-219,10,payment:Cash,Rating:7
+443-60-9639,SA-1701,HLS-202,12,payment:Cash,Rating:5
+369-82-2676,EG-2198,EA-315,5,payment:Cash,Rating:7
+186-09-3669,SA-1708,HB-672,12,payment:Ewallet,Rating:9
+166-19-2553,UAE-1709,SL-214,6,payment:Cash,Rating:9
+139-20-0155,EG-2122,EA-308,10,payment:Credit card,Rating:7
+438-23-1242,EG-2026,EA-315,2,payment:Cash,Rating:8
+188-55-0967,EG-1713,HB-697,10,payment:Credit card,Rating:5
+732-94-0499,SA-2163,EA-311,10,payment:Credit card,Rating:5
+280-35-5823,EG-1718,HLS-201,1,payment:Ewallet,Rating:7
+809-46-1866,UAE-1721,HB-631,4,payment:Cash,Rating:8
+730-61-8757,EG-1723,HB-616,4,payment:Credit card,Rating:4
+191-10-6171,EG-1937,Fa-486,2,payment:Cash,Rating:8
+525-88-7307,EG-1734,SL-212,1,payment:Cash,Rating:5
+377-79-7592,SA-2154,EA-311,9,payment:Credit card,Rating:7
+343-61-3544,EG-1737,SL-202,10,payment:Cash,Rating:8
+732-67-5346,UAE-1747,HB-666,5,payment:Credit card,Rating:7
+244-08-0162,EG-1754,HB-700,10,payment:Cash,Rating:5
+258-69-7810,SA-1963,Fa-410,5,payment:Cash,Rating:9
+422-29-8786,UAE-1761,HLS-218,5,payment:Credit card,Rating:9
+751-41-9720,SA-1763,HLS-201,10,payment:Cash,Rating:8
+219-61-4139,SA-1896,EA-317,12,payment:Cash,Rating:6
+393-65-2792,SA-1771,HB-682,10,payment:Credit card,Rating:9
+288-62-1085,UAE-1526,Fa-406,5,payment:Ewallet,Rating:5
+347-72-6115,EG-1775,SL-205,2,payment:Credit card,Rating:6
+394-41-0748,SA-1505,Fa-499,9,payment:Ewallet,Rating:9
+329-62-1586,UAE-1792,HB-695,3,payment:Credit card,Rating:8
+325-90-8763,SA-1711,EA-309,10,payment:Cash,Rating:7
+192-98-7397,SA-1993,Fa-413,12,payment:Cash,Rating:9
+457-94-0464,EG-1879,EA-317,2,payment:Cash,Rating:5
+490-95-0021,EG-1804,HB-625,10,payment:Cash,Rating:6
+667-23-5919,UAE-1617,Fa-500,5,payment:Cash,Rating:7
+665-32-9167,UAE-1807,HB-681,2,payment:Credit card,Rating:7
+706-36-6154,UAE-1809,HLS-201,9,payment:Cash,Rating:8
+189-55-2313,SA-1367,Fa-487,10,payment:Cash,Rating:8
+562-12-5430,UAE-1874,Fa-447,3,payment:Cash,Rating:7
+320-85-2052,EG-1815,SL-205,1,payment:Credit card,Rating:7
+622-20-1945,SA-1818,HB-673,12,payment:Cash,Rating:8
+370-96-0655,SA-1666,Fa-480,6,payment:Ewallet,Rating:7
+796-32-9050,UAE-1828,HB-695,6,payment:Cash,Rating:6
+457-13-1708,EG-1916,Fa-419,10,payment:Credit card,Rating:5
+372-26-1506,SA-1756,Fa-500,5,payment:Ewallet,Rating:5
+289-65-5721,EG-1773,Fa-486,2,payment:Cash,Rating:6
+704-48-3927,UAE-2037,EA-317,10,payment:Ewallet,Rating:7
+778-34-2523,UAE-1682,EA-310,8,payment:Cash,Rating:5
+138-17-5109,UAE-1836,HLS-205,9,payment:Credit card,Rating:6
+176-78-1170,SA-1839,HB-689,12,payment:Ewallet,Rating:7
+390-80-5128,EG-1840,HB-656,1,payment:Credit card,Rating:9
+846-10-0341,UAE-2240,Fa-476,7,payment:Cash,Rating:6
+316-68-6352,UAE-1845,HB-694,2,payment:Cash,Rating:7
+257-60-7754,UAE-2038,EA-310,4,payment:Cash,Rating:9
+856-66-2701,UAE-1852,HLS-215,3,payment:Cash,Rating:7
+197-77-7132,EG-2208,EA-317,2,payment:Cash,Rating:6
+865-41-9075,UAE-1857,HB-685,7,payment:Cash,Rating:8
+289-15-7034,UAE-1858,SL-201,4,payment:Credit card,Rating:7
+462-67-9126,UAE-1859,HLS-219,6,payment:Cash,Rating:7
+834-61-8124,UAE-1945,EA-311,7,payment:Cash,Rating:5
+785-13-7708,EG-1866,HB-669,2,payment:Cash,Rating:8
+299-46-1805,EG-1867,SL-209,2,payment:Cash,Rating:8
+678-79-0726,SA-1868,SL-211,9,payment:Cash,Rating:5
+651-88-7328,UAE-1631,Fa-411,9,payment:Cash,Rating:8
+257-73-1380,SA-1366,SL-216,12,payment:Cash,Rating:9
+608-27-6295,EG-1938,EA-311,2,payment:Credit card,Rating:9
+493-65-6248,SA-1883,SL-219,10,payment:Credit card,Rating:7
+284-54-4231,SA-1885,SL-201,12,payment:Credit card,Rating:9
+809-69-9497,UAE-1887,HLS-215,10,payment:Ewallet,Rating:5
+209-61-0206,UAE-1888,HLS-205,5,payment:Cash,Rating:6
+660-29-7083,SA-2298,EA-311,10,payment:Cash,Rating:5
+296-11-7041,EG-1900,HB-638,1,payment:Credit card,Rating:5
+725-96-3778,SA-1902,HLS-212,8,payment:Cash,Rating:4
+589-02-8023,UAE-1903,HB-633,2,payment:Credit card,Rating:7
+450-28-2866,SA-1906,HB-614,5,payment:Cash,Rating:8
+781-84-8059,SA-1454,Fa-460,7,payment:Cash,Rating:5
+232-16-2483,SA-1490,SL-208,12,payment:Ewallet,Rating:6
+889-04-9723,EG-1924,HB-640,4,payment:Credit card,Rating:7
+225-32-0908,SA-1494,SL-200,10,payment:Cash,Rating:8
+226-71-3580,SA-1928,SL-214,9,payment:Cash,Rating:9
+746-04-1077,EG-1932,HB-674,10,payment:Credit card,Rating:9
+271-77-8740,SA-1522,SL-212,6,payment:Cash,Rating:5
+339-38-9982,EG-1841,Fa-467,2,payment:Ewallet,Rating:8
+852-82-2749,UAE-1552,SL-200,4,payment:Cash,Rating:9
+426-39-2418,SA-2270,EA-313,7,payment:Cash,Rating:9
+268-03-6164,EG-1943,HB-660,1,payment:Ewallet,Rating:7
+588-47-8641,UAE-2236,Fa-435,10,payment:Cash,Rating:6
+843-73-4724,UAE-1484,Fa-450,1,payment:Cash,Rating:9
+756-01-7507,SA-1953,HB-679,5,payment:Cash,Rating:6
+788-07-8452,SA-1955,HLS-201,7,payment:Cash,Rating:9
+556-97-7101,SA-2266,EA-313,12,payment:Cash,Rating:8
+460-35-4390,UAE-1962,HLS-206,3,payment:Cash,Rating:9
+532-59-7201,EG-1966,SL-218,2,payment:Cash,Rating:5
+213-32-1216,UAE-1872,EA-313,6,payment:Cash,Rating:7
+778-71-5554,SA-2219,Fa-429,12,payment:Credit card,Rating:6
+624-01-8356,EG-1969,HLS-204,10,payment:Cash,Rating:4
+366-93-0948,UAE-1555,EA-313,1,payment:Credit card,Rating:9
+200-16-5952,SA-1977,HB-654,12,payment:Cash,Rating:6
+552-44-5977,EG-1979,HB-666,2,payment:Credit card,Rating:6
+672-51-8681,SA-1956,EA-313,9,payment:Credit card,Rating:9
+641-43-2399,EG-1982,HLS-207,4,payment:Cash,Rating:5
+217-58-1179,UAE-1983,HLS-214,4,payment:Cash,Rating:8
+530-90-9855,UAE-1984,HLS-201,8,payment:Cash,Rating:5
+848-07-1692,EG-1985,HB-640,2,payment:Cash,Rating:8
+767-97-4650,EG-1986,SL-219,2,payment:Credit card,Rating:8
+794-42-3736,EG-1991,HB-669,2,payment:Credit card,Rating:6
+843-01-4703,EG-1992,HLS-208,2,payment:Credit card,Rating:9
+359-90-3665,EG-1951,Fa-406,4,payment:Credit card,Rating:9
+896-34-0956,UAE-2130,Fa-444,1,payment:Cash,Rating:5
+744-16-7898,EG-2001,HLS-218,10,payment:Cash,Rating:8
+540-11-4336,UAE-2002,HB-634,9,payment:Credit card,Rating:5
+110-48-7033,EG-1483,Fa-480,4,payment:Cash,Rating:9
+148-41-7930,SA-2006,HB-677,7,payment:Cash,Rating:6
+658-66-3967,SA-2007,HB-613,7,payment:Ewallet,Rating:5
+541-48-8554,UAE-2011,SL-219,9,payment:Credit card,Rating:6
+845-94-6841,SA-2013,HB-699,9,payment:Cash,Rating:8
+842-29-4695,SA-2017,SL-216,7,payment:Credit card,Rating:7
+445-30-9252,UAE-1608,SL-212,3,payment:Ewallet,Rating:6
+522-57-8364,UAE-1353,Fa-417,8,payment:Ewallet,Rating:8
+840-76-5966,UAE-1629,SL-213,2,payment:Cash,Rating:7
+765-26-6951,UAE-2035,SL-220,6,payment:Credit card,Rating:6
+525-09-8450,EG-1456,EA-314,10,payment:Cash,Rating:8
+279-74-2924,EG-1598,EA-314,1,payment:Cash,Rating:6
+698-98-5964,UAE-2039,HB-673,10,payment:Credit card,Rating:6
+288-38-3758,SA-1847,Fa-407,12,payment:Cash,Rating:8
+416-17-9926,UAE-1497,EA-314,10,payment:Cash,Rating:4
+430-53-4718,EG-2050,HB-621,2,payment:Credit card,Rating:8
+862-59-8517,SA-2051,HB-602,6,payment:Cash,Rating:6
+533-66-5566,EG-2052,HLS-217,2,payment:Cash,Rating:7
+406-46-7107,UAE-2053,HLS-209,6,payment:Cash,Rating:4
+378-24-2715,EG-2054,HLS-205,2,payment:Cash,Rating:8
+318-12-0304,UAE-2283,Fa-499,1,payment:Cash,Rating:5
+283-26-5248,SA-2060,HB-601,10,payment:Ewallet,Rating:8
+750-67-8428,UAE-2062,HB-677,7,payment:Ewallet,Rating:9
+891-01-7034,EG-1495,EA-315,2,payment:Cash,Rating:6
+101-81-4070,SA-2065,HB-625,12,payment:Ewallet,Rating:8
+767-05-1286,SA-2066,HLS-202,6,payment:Ewallet,Rating:5
+603-07-0961,SA-2143,EA-315,5,payment:Cash,Rating:8
+670-79-6321,EG-2072,HLS-208,2,payment:Cash,Rating:8
+249-42-3782,UAE-2076,HB-682,5,payment:Ewallet,Rating:5
+423-80-0988,SA-1739,SL-208,12,payment:Cash,Rating:6
+144-51-6085,UAE-2080,HLS-204,4,payment:Cash,Rating:8
+235-06-8510,SA-2090,HLS-218,12,payment:Cash,Rating:5
+674-15-9296,UAE-1777,SL-205,5,payment:Ewallet,Rating:5
+397-25-8725,UAE-2093,HB-680,9,payment:Credit card,Rating:6
+731-14-2199,UAE-2097,HLS-208,10,payment:Cash,Rating:7
+894-41-5205,SA-2098,HB-608,8,payment:Credit card,Rating:8
+664-14-2882,SA-2099,HLS-204,5,payment:Credit card,Rating:5
+451-73-2711,SA-2101,HB-641,12,payment:Cash,Rating:8
+232-11-3025,UAE-2106,SL-212,10,payment:Cash,Rating:6
+821-14-9046,EG-1830,Fa-442,2,payment:Credit card,Rating:8
+149-71-6266,EG-2109,SL-210,2,payment:Cash,Rating:4
+746-68-6593,SA-2110,SL-218,12,payment:Credit card,Rating:9
+799-71-1548,UAE-2047,EA-317,4,payment:Credit card,Rating:8
+662-72-2873,UAE-2117,HB-632,5,payment:Cash,Rating:9
+569-76-2760,UAE-2118,SL-200,4,payment:Credit card,Rating:6
+124-31-1458,UAE-1705,EA-317,3,payment:Cash,Rating:6
+656-16-1063,EG-2129,SL-220,3,payment:Cash,Rating:8
+261-12-8671,EG-2023,Fa-408,2,payment:Credit card,Rating:5
+779-06-0012,SA-2133,HLS-202,12,payment:Cash,Rating:7
+875-31-8302,EG-2134,SL-219,1,payment:Cash,Rating:9
+345-68-9016,SA-2137,SL-202,8,payment:Credit card,Rating:5
+645-78-8093,UAE-1891,SL-200,2,payment:Cash,Rating:8
+343-75-9322,EG-2144,SL-204,2,payment:Cash,Rating:8
+740-22-2500,SA-1933,EA-317,12,payment:Cash,Rating:9
+862-29-5914,SA-2150,SL-203,12,payment:Credit card,Rating:8
+283-79-9594,EG-2152,HB-699,2,payment:Credit card,Rating:5
+600-38-9738,SA-2160,SL-206,5,payment:Credit card,Rating:7
+751-15-6198,EG-2020,SL-206,2,payment:Ewallet,Rating:7
+452-04-8808,EG-1433,EA-317,2,payment:Cash,Rating:5
+126-54-1082,UAE-2164,HLS-214,9,payment:Credit card,Rating:8
+125-45-2293,UAE-2169,Fa-412,6,payment:Cash,Rating:5
+729-06-2010,EG-2170,HB-606,2,payment:Cash,Rating:9
+239-10-7476,UAE-2172,HLS-211,6,payment:Cash,Rating:8
+182-52-7000,UAE-2073,SL-215,4,payment:Ewallet,Rating:6
+604-70-6476,UAE-1385,Fa-416,5,payment:Cash,Rating:6
+162-65-8559,SA-2180,HB-681,12,payment:Cash,Rating:7
+504-35-8843,UAE-2184,SL-215,1,payment:Cash,Rating:5
+442-44-6497,SA-2186,HLS-209,12,payment:Credit card,Rating:5
+269-10-8440,UAE-2189,HB-660,7,payment:Cash,Rating:8
+826-58-8051,EG-2191,HLS-204,4,payment:Ewallet,Rating:7
+746-54-5508,UAE-2194,HLS-213,6,payment:Credit card,Rating:9
+554-42-2417,SA-2195,SL-203,10,payment:Cash,Rating:5
+868-52-7573,EG-2197,HB-697,5,payment:Cash,Rating:9
+286-75-7818,EG-1442,Fa-439,2,payment:Credit card,Rating:6
+816-72-8853,UAE-2203,SL-220,5,payment:Cash,Rating:5
+135-13-8269,EG-2206,HB-681,2,payment:Cash,Rating:9
+307-83-9164,UAE-2207,HLS-207,4,payment:Cash,Rating:8
+497-37-6538,UAE-2179,SL-203,7,payment:Ewallet,Rating:9
+390-31-6381,SA-2211,HB-654,12,payment:Cash,Rating:7
+123-19-1176,UAE-2213,HB-667,8,payment:Cash,Rating:8
+356-44-8813,EG-2214,HLS-216,3,payment:Credit card,Rating:7
+460-93-5834,UAE-2218,SL-212,7,payment:Cash,Rating:5
+750-57-9686,SA-2220,HLS-214,12,payment:Credit card,Rating:8
+602-16-6955,EG-2196,SL-201,10,payment:Ewallet,Rating:6
+189-08-9157,SA-1609,Fa-462,9,payment:Credit card,Rating:5
+490-29-1201,UAE-2235,SL-217,1,payment:Cash,Rating:6
+501-61-1753,EG-2237,HLS-206,2,payment:Cash,Rating:9
+375-72-3056,EG-2223,SL-204,3,payment:Cash,Rating:7
+828-46-6863,UAE-2242,HB-630,6,payment:Cash,Rating:4
+308-39-1707,UAE-2045,Fa-480,1,payment:Credit card,Rating:8
+339-12-4827,EG-1400,Fa-401,1,payment:Credit card,Rating:5
+416-13-5917,SA-2247,HB-696,5,payment:Cash,Rating:9
+286-62-6248,EG-2107,Fa-438,4,payment:Credit card,Rating:9
+804-38-3935,UAE-1797,EA-317,3,payment:Credit card,Rating:5
+565-80-5980,SA-2252,HLS-218,12,payment:Cash,Rating:7
+355-34-6244,EG-2253,HB-662,2,payment:Credit card,Rating:8
+489-82-1237,UAE-1913,EA-317,7,payment:Credit card,Rating:7
+881-41-7302,SA-1861,Fa-493,12,payment:Credit card,Rating:4
+645-44-1170,UAE-2261,HLS-217,9,payment:Cash,Rating:4
+340-21-9136,UAE-2263,SL-203,4,payment:Cash,Rating:9
+342-65-4817,SA-2265,HB-686,12,payment:Cash,Rating:9
+731-81-9469,SA-2271,SL-205,10,payment:Credit card,Rating:5
+834-25-9262,SA-1753,Fa-428,12,payment:Cash,Rating:9
+189-40-5216,SA-2267,EA-317,7,payment:Cash,Rating:6
+160-22-2687,UAE-2282,HB-699,5,payment:Ewallet,Rating:8
+725-32-9708,EG-1444,Fa-483,4,payment:Cash,Rating:6
+873-51-0671,UAE-2241,SL-204,7,payment:Cash,Rating:5
+316-66-3011,UAE-2288,HB-681,9,payment:Cash,Rating:5
+704-11-6354,UAE-2291,HLS-219,8,payment:Cash,Rating:8
+618-34-8551,UAE-2294,SL-212,2,payment:Credit card,Rating:8
+382-25-8917,SA-1895,Fa-488,6,payment:Cash,Rating:8
+510-79-0415,EG-2297,SL-219,2,payment:Ewallet,Rating:4
+316-55-4634,EG-2299,HB-654,5,payment:Credit card,Rating:9
+746-94-0204,UAE-1772,Fa-466,9,payment:Credit card,Rating:7
+263-10-3913,SA-2022,Fa-444,9,payment:Credit card,Rating:8
+800-09-8606,UAE-2309,HLS-203,5,payment:Cash,Rating:6
+775-72-1988,EG-2311,HLS-201,5,payment:Ewallet,Rating:8
+241-11-2261,EG-2096,Fa-498,2,payment:Credit card,Rating:5
+569-71-4390,EG-2315,SL-215,2,payment:Ewallet,Rating:6
+521-18-7827,SA-2319,HLS-209,5,payment:Credit card,Rating:8
+659-65-8956,EG-1536,Fa-477,1,payment:Ewallet,Rating:5
+836-82-5858,EG-2322,HB-607,2,payment:Ewallet,Rating:4
+712-39-0363,UAE-2324,HB-607,6,payment:Ewallet,Rating:5
